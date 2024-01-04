@@ -15,13 +15,13 @@ You need to have Node.js installed on your machine to run this project. You can 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/RaheesAhmed/img-gpt.git
+   git clone https://github.com/Elite314Dev/Image-generator-using-scraped-data.git
    ```
 
 2. Install the dependencies:
 
    ```
-   cd image-generation
+   cd Image-generator-using-scraped-data
    npm install
    ```
 
@@ -56,10 +56,6 @@ The script does the following:
 - [dotenv](https://www.npmjs.com/package/dotenv) - Used to load environment variables
 - [fs](https://nodejs.org/api/fs.html) - Node.js file system module for reading files
 
-## Authors
-
-- Rahees Ahmed
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
@@ -68,3 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - OpenAI for their amazing GPT-4 Vision API
 - Puppeteer for their powerful headless browser
+
+## Devloped by
+
+314Dev
